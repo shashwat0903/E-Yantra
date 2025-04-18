@@ -28,6 +28,18 @@ A gamified simulation system integrated with real-time environmental inputs to m
 | 📈 Impact Reports                 | Shows potential cost savings, carbon reduction, and usage charts                           |
 | 🧠 Educational Value              | Teaches real-world constraints through interactive design                                   |
 
+### 🎮 Energy Grid Optimization Game  
+User allocates energy to appliances and receives feedback on efficiency.  
+> **Image file:** `ec.png`
+
+![Energy Grid Game UI](./ec.png)
+
+### 🌤 Weather-based Recommendation Panel  
+Uses real-time weather (via OpenWeatherMap API) to guide source prioritization.  
+> **Image file:** `rec.png`
+
+![Weather Recommendation UI](./rec.png)
+
 ---
 
 ## 🛠️ Hardware & Software Stack
