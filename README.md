@@ -8,7 +8,7 @@ A gamified simulation system integrated with real-time environmental inputs to m
 
 ## 🧠 Project Summary
 
-**ENERGY GAME** is a **simulation + control system** that helps users understand how to manage renewable energy from **solar, wind, and hydro sources**. It provides:
+**E-Yantra** is a **simulation + control system** that helps users understand how to manage renewable energy from **solar, wind, and hydro sources**. It provides:
 - Real-time **energy allocation and optimization**
 - **Weather/location-based recommendations**
 - Integration with **ESP32 + sensors** to predict actual renewable generation potential.
