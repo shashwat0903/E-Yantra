@@ -32,13 +32,13 @@ A gamified simulation system integrated with real-time environmental inputs to m
 User allocates energy to appliances and receives feedback on efficiency.  
 > **Image file:** `ec.png`
 
-![Energy Grid Game UI](./ec.png)
+![Energy Grid Game UI](./e.png)
 
 ### 🌤 Weather-based Recommendation Panel  
 Uses real-time weather (via OpenWeatherMap API) to guide source prioritization.  
 > **Image file:** `rec.png`
 
-![Weather Recommendation UI](./rec.png)
+![Weather Recommendation UI](./r.png)
 
 ---
 
