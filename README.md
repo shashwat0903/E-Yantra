@@ -1,4 +1,4 @@
-# ⚡ ENERGY GAME: Operation and Control of Renewable Energy Sources
+# ⚡ E-Yantra - Operation and Control of Renewable Energy Sources
 
 A gamified simulation system integrated with real-time environmental inputs to manage and optimize renewable energy consumption in households. Built under the **E-Yantra initiative**, this project merges **simulation, hardware and AI-based recommendations**.
 
